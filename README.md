@@ -1,5 +1,9 @@
 # Neo4j-Hackaton-2017
-The results of the hackaton at GraphConnect 2017 conference that led to the "Best Lead" award
+The results of the hackaton
+
+https://www.meetup.com/graphdb-london/events/237040841/
+
+at GraphConnect 2017 conference that led to the "Best Lead" award
 
 ## To reproduce the results
 
